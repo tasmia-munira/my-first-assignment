@@ -100,7 +100,7 @@ body {
   height: 1395px;
   /* margin: 857px 152px 2993px 148px; */
   margin: 0px auto;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -218,8 +218,9 @@ left: 148px;
 right: 152px;
 top: 2250px;
 bottom: 2128px;
-border: 2px solid red;
+/* border: 2px solid red; */
 margin: 0 auto;
 margin-bottom: 500px;
 }
+
 
