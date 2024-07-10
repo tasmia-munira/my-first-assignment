@@ -343,7 +343,7 @@ margin-bottom: 500px;
   gap: 24px;
   height: 300px;
   box-sizing: border-box;
-  border: 1px solid ;
+  /* border: 1px solid ; */
   position: relative;
 
   right: 955px;
@@ -353,7 +353,7 @@ margin-bottom: 500px;
 
 .content {
   box-sizing: border-box; 
-  border: 1px solid ;
+  /* border: 1px solid ; */
   border-radius: 16px;
 
 }
@@ -417,3 +417,101 @@ line-height: 19px;
 
 }
  
+/* Third section styles ends here */
+
+/* Fourth section styles starts here */
+.support-container {
+  position: relative;
+  top: 850px;
+  left: 0px;
+  width: 1140px;
+  height: 313px;
+  margin: 0 auto;
+  margin-top: 111px;
+  display: flex;
+  flex-direction: row;
+  padding: 64px 48px 64px 48px;
+  border: 2px solid red;
+  background-image: url('../images/assets/handshake.jpg');
+  background-color: rgba(0, 0, 0, 0.5);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: overlay;
+
+}
+
+.support-content {
+  width: 1044px;
+height: 185px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin: 32px 0px;
+
+
+}
+
+.support-content h2 {
+  color: white;
+  width: 292px;
+height: 36px;
+font-size: 32px;
+font-weight: 700;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.support-content p {
+  color: white;
+  width: 606px;
+  height: 52px;
+    opacity: 0.7;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+ 
+    
+}
+
+.feedback {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    
+
+
+}
+
+
+.feedback input {
+  width: 548px;
+  height: 57px;
+  text-align: left;
+  padding: 12px 24px;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 8px;
+  box-sizing: border-box;
+  background: rgb(255, 255, 255);
+
+
+}
+
+.feedback button {
+  padding: 12px 24px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    color: rgb(13, 19, 33);
+    
+
+}
+
+.feedback button:hover {
+  color:green;
+  cursor: pointer;
+  
+}
+
+/* Fourth section styles ends here */
