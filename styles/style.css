@@ -13,7 +13,7 @@ body {
   font-style: normal;
 }
 
-/* Header section starts here*/
+/* Header section styles starts here*/
 /* Banner styles */
 .banner-container{
   display: flex;
@@ -91,7 +91,7 @@ body {
   margin: 32px 0px;
   border-radius: 8px
 }
-/* Header section ends here*/
+/* Header section styles ends here*/
 
 /* Web dev. section style starts here */
 
@@ -100,7 +100,7 @@ body {
   height: 1395px;
   /* margin: 857px 152px 2993px 148px; */
   margin: 0px auto;
-  /* border: 2px solid red; */
+  border: 2px solid red;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -159,7 +159,6 @@ text-align: left;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
-
   opacity: 0.7;
   text-align: left;
  }
@@ -206,3 +205,21 @@ text-align: left;
   background-color: white;
   background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
 }
+
+/* Web dev. section style ends here */
+
+/* My inspiration section style starts here */
+
+.second-section-container{
+position: absolute;
+width: 1140px;
+height: 777px;
+left: 148px;
+right: 152px;
+top: 2250px;
+bottom: 2128px;
+border: 2px solid red;
+margin: 0 auto;
+margin-bottom: 500px;
+}
+
