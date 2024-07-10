@@ -221,7 +221,7 @@ left: 148px;
 right: 152px;
 top: 2250px;
 bottom: 2128px;
-border: 2px solid red;
+/* border: 2px solid red; */
 margin: 0 auto;
 margin-bottom: 500px;
 }
@@ -256,7 +256,30 @@ margin-bottom: 500px;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px
+  margin: 24px 0px;
 
 } 
 
+.second-section-content-3{
+  width: 1140px;
+  height: 614px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 32px;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+  
+
+}
+/* 
+.video-styling{
+  width: 1076px;
+  height: 550px;
+  margin: 10px 0px;
+  border-radius: 16px;
+
+} */
 
