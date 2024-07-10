@@ -106,14 +106,17 @@ body {
   justify-content: flex-start;
   align-items: center;
   padding: 80px 97px 80px 97px;
+  border-radius: 16px;
+  background: rgba(13, 19, 33, 0.02);
 
-}
+} 
 .div-style{
   text-align: center;
   width: 1000px;
   position:absolute;
   top:800px;
   padding-top: 40px;
+
 }
 
 .web-dev-content-1{
